@@ -12,6 +12,6 @@ BMICalc-1.png
   <table><tr>
 <tr>
 <td valign="bottom">
-<img src="./BMICalc-2.png" width="1000"><br>
+<img src="./BMIcalc-2.png" width="1000"><br>
 BMIcalc-2.png
 </td>
